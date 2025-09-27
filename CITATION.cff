@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Se você usa este repositório, por favor cite-o."
+title: "Apêndice A — Materiais, Dados e Reprodutibilidade (online)"
+authors:
+  - family-names: "SOBRENOME"
+    given-names: "Nome"
+date-released: "2025-09-27"
+version: "0.1.0"
+doi: "TODO"
