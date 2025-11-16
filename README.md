@@ -48,10 +48,3 @@ apendice_a_online/
 - **Textos e artefatos do apêndice** (README, docs, figuras geradas): CC BY 4.0 (ver `LICENSE_CONTENT.md`).
 - **Dados**: verifique restrições de compartilhamento antes de publicar.
 
-## Citação (template)
-Considere adicionar o DOI/URL do repositório aqui quando disponível.
-Além disso, preencha o arquivo `CITATION.cff` com os metadados do projeto.
-
----
-**Observação ABNT (USP)**: O apêndice deve ser identificado no texto como *APÊNDICE A – Materiais, dados e reprodutibilidade (online)* e citado conforme as normas (ver item “Apêndice(s)” nas Diretrizes SIBi-USP).
-
