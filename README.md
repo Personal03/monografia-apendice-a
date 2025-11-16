@@ -1,7 +1,6 @@
 # Apêndice A — Materiais, Dados e Reprodutibilidade (online)
 
 Este repositório contém o **Apêndice A (online)** da monografia, com dados, scripts e instruções para reproduzir as análises.
-> **Status:** esqueleto inicial criado em 27/09/2025 — pronto para receber arquivos e scripts.
 
 ## Estrutura de pastas
 ```
